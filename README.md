@@ -1,13 +1,13 @@
 # InformeLaboratorio
 
 
-1. OBJETIVOS
+1.- OBJETIVOS
 
-2. MARCO TEÓRICO 
+2.- MARCO TEÓRICO 
 
-3. EXPLICACIÓN DEL PROCEDIMIENTO
+3.- EXPLICACIÓN DEL PROCEDIMIENTO
 
- 3.1 Materiales
+3.1 Materiales
 - Generador de señales
 - Fuente DC.
 - Osciloscopio.
@@ -36,7 +36,7 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 
 Realice las mismas mediciones de los ítems del numeral anterior y presente los resultados.
 
-4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+4.- RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
  4.1 Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
 
@@ -50,7 +50,7 @@ Realice las mismas mediciones de los ítems del numeral anterior y presente los 
 
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
 
-5. CONCLUSIONES
+5.- CONCLUSIONES
 
-6. BIBLIOGRAFÍA
-)
+6.- BIBLIOGRAFÍA
+
