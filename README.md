@@ -7,7 +7,7 @@
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-3.1 Materiales
+ 3.1 Materiales
 - Generador de señales
 - Fuente DC.
 - Osciloscopio.
@@ -16,7 +16,7 @@
 - Cables conductores
 - Resistencias, bobinas y capacitores.
 
-3.2 Procedimiento 1
+ 3.2 Procedimiento 1
 
 1.- Construya en el protoboard el circuito mostrado en la Figura 1.
 
@@ -28,7 +28,7 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 
 ![image](https://user-images.githubusercontent.com/93899720/152887591-a58f64a1-c808-4a8e-bb3f-37474dc20607.png)
 
-3.3 Procedimiento 2
+ 3.3 Procedimiento 2
 
 1.- Construya el circuito mostrado en la Figura 2
 
@@ -38,9 +38,9 @@ Realice las mismas mediciones de los ítems del numeral anterior y presente los 
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-4.1 Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
+ 4.1 Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
 
-4.2 Preguntas
+ 4.2 Preguntas
 
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
@@ -50,7 +50,7 @@ Realice las mismas mediciones de los ítems del numeral anterior y presente los 
 
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
 
-6. CONCLUSIONES
+5. CONCLUSIONES
 
-7. BIBLIOGRAFÍA
+6. BIBLIOGRAFÍA
 )
