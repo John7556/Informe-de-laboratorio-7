@@ -282,16 +282,23 @@ Circuito 2
 
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
+No existe paso de corriente ni voltaje debido a que a que el capacitor bloquea la corriente al tener un voltaje igual a la fuente por lo que tiende a 0.
+
 2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+
+El capacitor y la bobina dan valores positivos y negativos con el aumento de Hertz los amperios disminuyen y el voltaje aumenta, en otras palabras si la frecuencia aumenta se obtiene mayor corriente y menor voltaje si la frecuencia disminuye será lo contrario, sucede algo similar con bobinas a mayor frecuencia la corriente disminuye y el voltaje aumenta y viceversa.
 
 3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
+Si se tiene este caso se ha experimentado que con el uso de capacitores la corriente aumenta y el voltaje disminuye, utilizando bobinas la corriente disminuye y el voltaje aumenta.
+
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
+
+Estos valores de voltaje y corriente hace referencia a una medida que represente la efectividad al transmitir potencia a una carga.
 
 5.- CONCLUSIONES
 
 Conclusiones:
-
 
 Los instrumentos de medición utilizados no se limitan a una sola operación los mismos pueden ser utilizados para obtener diferente tipo de información como frecuencia, valores pico de voltaje entre otros. Los circuitos de tipo de corriente alterna (CA) que utilizan capacitores tienen como resultado un aumento de voltaje y corriente sin embargo con el uso de inductores se obtiene un efecto contrario, con la variación de la frecuencia se observó que los valores de la corriente y voltaje cambian, por lo tanto se puede decir que están directamente relacionados entre sí. 
 
