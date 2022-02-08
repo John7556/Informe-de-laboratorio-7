@@ -3,11 +3,19 @@
 
 1.- OBJETIVOS
 
-Objetivos: 
+
 •	Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
+
+
 •	Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
+
+
 •	Verificar las combinaciones serie y paralelo de bobinas y capacitores.
+
+
 •	Familiarizarse con el uso de instrumentos de medida.
+
+
 •	Implementar simuladores 
 
 
@@ -289,4 +297,18 @@ Los instrumentos de medición utilizados no se limitan a una sola operación los
 
 
 6.- BIBLIOGRAFÍA
+
+
+•	Principios de circuitos eléctricos. (2021). [Ebook] (8th ed.). (2021). Retrieved 06 January 2021, from http://www.inet.edu.ar/wp-content/uploads/2020/07/ELECTRONICA_Gu--a03-Potencia.pdf
+
+
+•	Floyd, T. (2007). Principios de circuitos eléctricos (8a. ed.). Naucalpan de Juárez: Pearson Educación.
+
+
+•	Villavicencio, J., 2022. Inductor y capacitor. [online] Available at: <https://miro.com/app/board/o9J_ljqY8f0=/> [Accessed 8 February 2022].
+
+
+•	Mecatrónica LATAM. 2022. Inductor. [online] Available at: <https://www.mecatronicalatam.com/es/tutoriales/electronica/componentes-electronicos/inductor/> [Accessed 8 February 2022].
+
+
 
