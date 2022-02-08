@@ -296,14 +296,18 @@ Si se tiene este caso se ha experimentado que con el uso de capacitores la corri
 
 Estos valores de voltaje y corriente hace referencia a una medida que represente la efectividad al transmitir potencia a una carga.
 
-5.- CONCLUSIONES
+5. VIDEO
+
+
+
+6.- CONCLUSIONES
 
 Conclusiones:
 
 Los instrumentos de medición utilizados no se limitan a una sola operación los mismos pueden ser utilizados para obtener diferente tipo de información como frecuencia, valores pico de voltaje entre otros. Los circuitos de tipo de corriente alterna (CA) que utilizan capacitores tienen como resultado un aumento de voltaje y corriente sin embargo con el uso de inductores se obtiene un efecto contrario, con la variación de la frecuencia se observó que los valores de la corriente y voltaje cambian, por lo tanto se puede decir que están directamente relacionados entre sí. 
 
 
-6.- BIBLIOGRAFÍA
+7.- BIBLIOGRAFÍA
 
 
 •	Principios de circuitos eléctricos. (2021). [Ebook] (8th ed.). (2021). Retrieved 06 January 2021, from http://www.inet.edu.ar/wp-content/uploads/2020/07/ELECTRONICA_Gu--a03-Potencia.pdf
