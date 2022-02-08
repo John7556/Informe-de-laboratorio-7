@@ -247,6 +247,9 @@ Con 1000 Hz
 
  4.1 Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
 
+![image](https://user-images.githubusercontent.com/93899720/152970954-b73c7a52-6692-4717-9714-b327aaae9d69.png)
+
+
  4.2 Preguntas
 
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
