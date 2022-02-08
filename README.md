@@ -246,8 +246,17 @@ Con 1000 Hz
 4.- RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
  4.1 Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
+ 
+ Circuito 1
 
 ![image](https://user-images.githubusercontent.com/93899720/152970954-b73c7a52-6692-4717-9714-b327aaae9d69.png)
+
+
+Circuito 2
+
+
+![image](https://user-images.githubusercontent.com/93899720/152971965-22d1b45b-1ef2-42ff-af68-15aca6072936.png)
+
 
 
  4.2 Preguntas
