@@ -60,7 +60,7 @@ b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre lo
 
 Con 0 Hz
 
-![image](https://user-images.githubusercontent.com/93899720/152923672-ddf56ed6-4d9e-4cb8-93b8-9b675292aaf2.png)
+![image](https://user-images.githubusercontent.com/93899720/152967306-9e1331af-e082-4d41-a2a0-6b2b1c8fcd4a.png)
 
 
 Con 10 Hz
