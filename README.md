@@ -208,15 +208,40 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 
 Con 0 Hz
 
+![image](https://user-images.githubusercontent.com/93899720/152964158-49b35bd5-b0a2-445a-a631-0df8e94d5bc8.png)
+
+
 Con 10 Hz
+
+![image](https://user-images.githubusercontent.com/93899720/152964587-c1774352-33c8-4819-aabe-997a4e35cce3.png)
+![image](https://user-images.githubusercontent.com/93899720/152964722-30ef9e44-9916-494c-8738-1f2385beec44.png)
+
+
 
 Con 50 Hz
 
+![image](https://user-images.githubusercontent.com/93899720/152964958-b22e159d-471e-4f0c-8fcb-4040cd24b32b.png)
+![image](https://user-images.githubusercontent.com/93899720/152965013-1e988281-f1c4-4e98-8d1c-826b0c248508.png)
+
+
+
 Con 100 Hz
+
+![image](https://user-images.githubusercontent.com/93899720/152965128-01846db9-c759-4b78-be2f-53eaa39ae5a0.png)
+![image](https://user-images.githubusercontent.com/93899720/152965175-5248d357-a56e-4683-aabf-e17b7db78b81.png)
+
 
 Con 500 Hz
 
+![image](https://user-images.githubusercontent.com/93899720/152965453-18a3f61f-5281-48d5-877c-bd76fb42a2e6.png)
+![image](https://user-images.githubusercontent.com/93899720/152965531-8f5a9640-726b-4f7c-bf88-6258b36d705a.png)
+
+
 Con 1000 Hz
+
+![image](https://user-images.githubusercontent.com/93899720/152965577-c0ea8263-0d76-4fe2-bceb-e80c875b1f12.png)
+![image](https://user-images.githubusercontent.com/93899720/152965636-8b5e2d82-6325-4193-a780-38097abc8384.png)
+
 
 4.- RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
