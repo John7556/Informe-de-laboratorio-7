@@ -39,6 +39,8 @@
 
 1.- Construya en el protoboard el circuito mostrado en la Figura 1.
 
+![image](https://user-images.githubusercontent.com/93899720/152887591-a58f64a1-c808-4a8e-bb3f-37474dc20607.png)
+
 a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
 
 Con 0 Hz
@@ -143,8 +145,6 @@ Con 1000 Hz
 ![image](https://user-images.githubusercontent.com/93899720/152925544-54107f6f-e0a3-487d-9006-3f956b277e04.png)
 ![image](https://user-images.githubusercontent.com/93899720/152925577-f99a69ab-90ba-4902-b533-2c1c62788aa5.png)
 
-
-![image](https://user-images.githubusercontent.com/93899720/152887591-a58f64a1-c808-4a8e-bb3f-37474dc20607.png)
 
  3.3 Procedimiento 2
 
