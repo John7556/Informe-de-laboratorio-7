@@ -3,7 +3,18 @@
 
 1.- OBJETIVOS
 
+Objetivos: 
+•	Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
+•	Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
+•	Verificar las combinaciones serie y paralelo de bobinas y capacitores.
+•	Familiarizarse con el uso de instrumentos de medida.
+•	Implementar simuladores 
+
+
 2.- MARCO TEÓRICO 
+
+![Customer Touchpoint Map](https://user-images.githubusercontent.com/93899720/152972213-63e720ac-892b-4350-9875-c9c039f1fb2a.jpg)
+
 
 3.- EXPLICACIÓN DEL PROCEDIMIENTO
 
@@ -270,6 +281,12 @@ Circuito 2
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
 
 5.- CONCLUSIONES
+
+Conclusiones:
+
+
+Los instrumentos de medición utilizados no se limitan a una sola operación los mismos pueden ser utilizados para obtener diferente tipo de información como frecuencia, valores pico de voltaje entre otros. Los circuitos de tipo de corriente alterna (CA) que utilizan capacitores tienen como resultado un aumento de voltaje y corriente sin embargo con el uso de inductores se obtiene un efecto contrario, con la variación de la frecuencia se observó que los valores de la corriente y voltaje cambian, por lo tanto se puede decir que están directamente relacionados entre sí. 
+
 
 6.- BIBLIOGRAFÍA
 
