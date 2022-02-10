@@ -298,7 +298,7 @@ Estos valores de voltaje y corriente hace referencia a una medida que represente
 
 5. VIDEO
 
-
+https://youtu.be/-pewdncKGG0
 
 6.- CONCLUSIONES
 
